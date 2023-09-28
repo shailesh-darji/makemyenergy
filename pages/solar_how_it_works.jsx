@@ -98,7 +98,7 @@ export default function SolarHowItWorks() {
               <p className="text-lg mb-6">
                 Solar power is a clean, abundant, and renewable source of energy
                 that has the potential to revolutionize how we power our homes
-                and businesses. In this guide, we'll explore the fundamental
+                and businesses. In this guide, we&apos;ll explore the fundamental
                 principles of solar energy, how solar panels work, and the
                 benefits of harnessing the power of the sun.
               </p>
@@ -106,7 +106,7 @@ export default function SolarHowItWorks() {
                 Understanding Solar Energy
               </h2>
               <p className="text-lg mb-10">
-                Solar energy is derived from the sun's rays, which contain
+                Solar energy is derived from the sun&apos;s rays, which contain
                 photons that carry energy. When sunlight reaches the Earth, it
                 can be harnessed and converted into electricity through
                 photovoltaic (PV) cells, commonly known as solar panels. These
@@ -162,7 +162,7 @@ export default function SolarHowItWorks() {
                 <li className="text-lg">
                   <strong>Batteries (optional):</strong> Some solar systems may
                   include batteries to store excess electricity for later use,
-                  especially during times when the sun isn't shining.
+                  especially during times when the sun isn&apos;t shining.
                 </li>
               </ul>
               <h2 className="text-2xl font-bold mb-4 mt-10 text-center">

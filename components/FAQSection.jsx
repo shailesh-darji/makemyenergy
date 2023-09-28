@@ -14,7 +14,7 @@ const FAQSection = ({faqs}) => {
 
   return (
     <div className="text-center mx-20 pb-16">
-      <p className="text-3xl pt-[5vh] pb-[2.5vh] font-extrabold mb-5">FAQ's</p>
+      <p className="text-3xl pt-[5vh] pb-[2.5vh] font-extrabold mb-5">FAQ&apos;s</p>
       <div className="grid gap-4">
         {faqs.map((faq, index) => (
           <div

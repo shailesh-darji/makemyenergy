@@ -102,7 +102,7 @@ export default function About() {
                 reducing their carbon footprint and energy bills.
               </p>
               <p className="text-lg mb-6">
-                At Make My Energy, we're passionate about solar power, offering
+                At Make My Energy, we&apos;re passionate about solar power, offering
                 tailored solar solutions to harness the abundant Australian
                 sunshine and convert it into clean, renewable energy.
                 Additionally, our expertise extends to energy-efficient air
@@ -117,7 +117,7 @@ export default function About() {
               </p>
               <p className="text-lg mb-8">
                 Join us in the journey towards a greener and more
-                energy-efficient future. Let's work together to 'Make My Energy'
+                energy-efficient future. Let&apos;s work together to &apos;Make My Energy&apos;
                 the energy of tomorrow.
               </p>
             </div>
@@ -136,7 +136,7 @@ export default function About() {
                     <strong>Sustainable Solutions:</strong> We are dedicated to
                     sustainability and prioritize eco-friendly alternatives that
                     reduce your carbon footprint. By choosing Make My Energy,
-                    you're contributing to a cleaner, more sustainable future
+                    you&apos;re contributing to a cleaner, more sustainable future
                     for Australia and the planet.
                   </li>
                   <li className="text-lg mb-4">
