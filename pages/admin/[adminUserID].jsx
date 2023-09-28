@@ -78,7 +78,7 @@ export default function DynamicPage({ data }) {
           }
         })
     }
-  }, [])
+  })
 
   function ShowContent() {
     if (singleData.orderType == "Panel") {
