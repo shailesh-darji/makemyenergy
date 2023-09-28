@@ -15,6 +15,7 @@
     "axios": "^1.2.1",
     "eslint": "8.29.0",
     "eslint-config-next": "13.0.6",
+    "eslint-plugin-react-hooks": "^5.0.0-canary-f81c0f1ed-20230927",
     "express": "^4.18.2",
     "framer-motion": "^6",
     "http-proxy-middleware": "^2.0.6",
